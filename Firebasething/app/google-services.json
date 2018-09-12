@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1040707536969",
+    "firebase_url": "https://fir-thing-5f6b5.firebaseio.com",
+    "project_id": "fir-thing-5f6b5",
+    "storage_bucket": "fir-thing-5f6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040707536969:android:9f7381e6647b4b99",
+        "android_client_info": {
+          "package_name": "com.example.redhelicopter07.firebasething"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040707536969-739j97uuftbo8mrhs78j6vqript8r7ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redhelicopter07.firebasething",
+            "certificate_hash": "4b7d2a7546f35f221a60664f5a7ef753d182e3f3"
+          }
+        },
+        {
+          "client_id": "1040707536969-favekov8od3nd1lpuuf4mt5hc2ue5275.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AWJo-zEQR71DtMMxvwG88Er76s23pT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040707536969-favekov8od3nd1lpuuf4mt5hc2ue5275.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
